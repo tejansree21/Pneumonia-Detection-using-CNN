@@ -46,5 +46,5 @@ The model is trained on the popular **Chest X-Ray (Pneumonia) dataset** and can 
 ## 🧪 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/pneumonia-detection.git
+   git clone https://github.com/tejansree21/pneumonia-detection.git
    cd pneumonia-detection
